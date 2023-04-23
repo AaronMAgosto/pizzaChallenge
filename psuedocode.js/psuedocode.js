@@ -16,6 +16,7 @@ return (totalBedsNeeded <= numBeds)
 // } else 
 //     return false
 // }
+ // mupltiple
 }
 const canWeFit =  enoughBeds(8, 4, 5)
 console.log("can we fit?", canWeFit) 
